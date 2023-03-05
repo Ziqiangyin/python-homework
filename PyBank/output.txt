@@ -1,0 +1,5 @@
+The total number of months:86 
+The net total amount of Profit/Losses:38382578 
+The average of the changes in Profit/Losses:-2315.12 
+The greatest decrease in losses：[Sep-2013] -2196167 
+The greatest increase in profits：[Feb-2012] 1926159
